@@ -5,8 +5,6 @@ A Python-based movie recommendation system built to analyse viewer data and deli
 
 •	Deep Learning Model: PyTorch Matrix Factorization leveraging custom nn.Embedding layers.
 
-•	GPU Acceleration: Built-in support to run on CUDA if an Nvidia GPU is available.
-
 •	Unsupervised Learning: Scikit-Learn KMeans implementation grouping movie latent variables into thematic clusters.
 # Technologies Used
 
@@ -54,15 +52,20 @@ Launch Jupyter Notebook or open the notebook file inside VS Code.
 Select your active Python interpreter environment kernel.
 Execute all cells sequentially.
 # What I Learned
-Building recommendation systems with collaborative filtering
-Working with embedding layers in PyTorch
-Training deep learning models on real-world data
-Using K-Means clustering to analyze learned embeddings
-Data preprocessing and model evaluation
+Building recommendation systems with collaborative filtering,
+Working with embedding layers in PyTorch,
+Training deep learning models on real-world data,
+Using K-Means clustering to analyze learned embeddings,
+Data preprocessing and model evaluation.
 # Future Improvements
+
 •	Generate personalized Top-N movie recommendations
+
 •	Add a simple web interface using Streamlit
+
 •	Compare different recommendation algorithms
+
 •	Improve model accuracy through hyperparameter tuning
+
 # Academic Project
 This project was developed as part of a university semester course to explore recommendation systems using collaborative filtering and PyTorch. It provided hands-on experience with data preprocessing, deep learning, embedding-based models, and unsupervised learning techniques.
