@@ -1,17 +1,27 @@
 # movie-recommendation-system
 A Python-based movie recommendation system built to analyse viewer data and deliver personalized movie suggestions as the model learns user preferences from past ratings using collaborative filtering with matrix factorization.
 # Features
-Data Pipeline: Custom PyTorch Dataset loader mapping MovieLens IDs to sequential indices.
-Deep Learning Model: PyTorch Matrix Factorization leveraging custom nn.Embedding layers.
-GPU Acceleration: Built-in support to run on CUDA if an Nvidia GPU is available.
-Unsupervised Learning: Scikit-Learn KMeans implementation grouping movie latent variables into thematic clusters.
+•	Data Pipeline: Custom PyTorch Dataset loader mapping MovieLens IDs to sequential indices.
+
+•	Deep Learning Model: PyTorch Matrix Factorization leveraging custom nn.Embedding layers.
+
+•	GPU Acceleration: Built-in support to run on CUDA if an Nvidia GPU is available.
+
+•	Unsupervised Learning: Scikit-Learn KMeans implementation grouping movie latent variables into thematic clusters.
 # Technologies Used
+
 •	Python
+
 •	PyTorch
+
 •	Pandas
+
 •	NumPy
+
 •	Scikit-learn
+
 •	MovieLens Dataset
+
 # Dataset
 The project uses the MovieLens Latest Small dataset, which contains:
 •	Movie information
