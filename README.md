@@ -6,11 +6,17 @@ Deep Learning Model: PyTorch Matrix Factorization leveraging custom nn.Embedding
 GPU Acceleration: Built-in support to run on CUDA if an Nvidia GPU is available.
 Unsupervised Learning: Scikit-Learn KMeans implementation grouping movie latent variables into thematic clusters.
 # Technologies Used
+
 Python
+
 PyTorch
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 MovieLens Dataset
 # Dataset
 The project uses the MovieLens Latest Small dataset, which contains:
@@ -28,6 +34,7 @@ Apply K-Means clustering to group similar movies.
 # Project Structure
 MovieRecommendationSystem/
 │
+
 ├── MovieRecommenderSystem.ipynb
 
 ├── movies.csv
