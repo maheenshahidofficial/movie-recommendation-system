@@ -29,9 +29,13 @@ Apply K-Means clustering to group similar movies.
 MovieRecommendationSystem/
 │
 ├── MovieRecommenderSystem.ipynb
+
 ├── movies.csv
+
 ├── ratings.csv
+
 ├── ml-latest-small.zip
+
 └── README.md
 # How to Run
 Ensure your MovieLens .csv data files are present in the directory.
