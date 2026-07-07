@@ -52,11 +52,15 @@ Launch Jupyter Notebook or open the notebook file inside VS Code.
 Select your active Python interpreter environment kernel.
 Execute all cells sequentially.
 # What I Learned
-Building recommendation systems with collaborative filtering,
-Working with embedding layers in PyTorch,
-Training deep learning models on real-world data,
-Using K-Means clustering to analyze learned embeddings,
-Data preprocessing and model evaluation.
+Collaborative Filtering: Built and optimized recommendation engines designed to learn latent user-item preferences.
+
+PyTorch Embeddings: Leveraged PyTorch embedding layers to map discrete user and movie IDs into continuous, low-dimensional vector spaces.
+
+Deep Learning Pipelines: Trained neural network architectures on real-world datasets, handling custom data loaders and feature engineering.
+
+Unsupervised Clustering: Applied K-Means clustering to analyze and interpret the learned embedding spaces, grouping similar items together based on learned characteristics.
+
+Data Engineering & Evaluation: Designed robust data preprocessing workflows and implemented proper evaluation metrics to measure recommendation performance.
 # Future Improvements
 
 •	Generate personalized Top-N movie recommendations
@@ -68,4 +72,4 @@ Data preprocessing and model evaluation.
 •	Improve model accuracy through hyperparameter tuning
 
 # Academic Project
-This project was developed as part of a university semester course to explore recommendation systems using collaborative filtering and PyTorch. It provided hands-on experience with data preprocessing, deep learning, embedding-based models, and unsupervised learning techniques.
+Developed as a university semester project, this repository explores collaborative filtering recommendation systems using PyTorch. The project provides hands-on implementation of data preprocessing, embedding-based deep learning models, and unsupervised learning techniques
