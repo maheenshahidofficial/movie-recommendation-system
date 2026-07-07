@@ -25,6 +25,7 @@ The project uses the MovieLens Latest Small dataset, which contains:
 •	Movie information
 •	User ratings
 •	Thousands of interactions between users and movies
+
 # How It Works
 Load and clean the MovieLens dataset.
 Convert user IDs and movie IDs into numerical indices.
